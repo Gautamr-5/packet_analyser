@@ -1,0 +1,14 @@
+# Build output
+*.exe
+*.obj
+*.o
+*.out
+dpi_engine
+
+# Output files
+output.pcap
+*.log
+
+# C/C++ project folders
+.vscode/
+build/
